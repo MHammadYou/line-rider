@@ -22,7 +22,6 @@ public class Line : MonoBehaviour
         {
             SetPoint(mousePos);
         }
-        
     }
     void SetPoint(Vector2 point)
     {
